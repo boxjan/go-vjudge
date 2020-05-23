@@ -1,0 +1,18 @@
+{
+  "socket": 30000,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36",
+  "oj_file_path": "./static/ojFiles",
+  "proxies": [
+  ],
+  "remote": [
+    {
+      "name": "poj",
+      "accounts": [
+        {
+          "identity": "",
+          "password": ""
+        }
+      ]
+    }
+  ]
+}

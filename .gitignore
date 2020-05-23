@@ -1,0 +1,17 @@
+# IDE / Editor
+.idea
+
+# dotenv environment variables file
+.env
+config.ini
+
+# application runtime files
+runtime
+
+# exe
+*.exe
+
+# node
+/node_modules
+npm-debug.log
+yarn-error.log
